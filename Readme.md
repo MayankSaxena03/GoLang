@@ -4,6 +4,7 @@ Programs are in the following order
 
 1. HelloWorld
 
+**Basics of Golang**
 2. Variables
 
 3. User Input
@@ -13,3 +14,5 @@ Programs are in the following order
 5. Scan
 
 6. Math
+
+7. Time
