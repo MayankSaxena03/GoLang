@@ -7,3 +7,7 @@ Programs are in the following order
 2. Variables
 
 3. User Input
+
+4. Conversions
+
+5. Scan

@@ -12,7 +12,7 @@ func main() {
 	reader := bufio.NewReader(os.Stdin) /* Will create a new reader which reads from standard I/O */
 	fmt.Print("Enter rating for our Pizza : ")
 	//comma ok || error ok syntax
-	input, err := reader.ReadString('\n') /* If input is successful, it is stored in input otherwise error is stored in err */
+	input, err := reader.ReadString('\n') /* This will read the input until a line break is met. If input is successful, it is stored in input otherwise error is stored in err */
 	fmt.Print("Thanks for rating us : ", input)
 	fmt.Printf("Type of rating is %T\n", input)
 	fmt.Printf("Type of error is %T\n", err) /* It will show nil if input is successful */
