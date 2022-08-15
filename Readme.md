@@ -24,3 +24,7 @@ Programs are in the following order
 6. Math
 
 7. Time
+
+**Memory Management**
+
+8. Pointers
