@@ -32,3 +32,5 @@ Programs are in the following order
 9. Array
 
 10. Slices
+
+11. Maps
