@@ -30,3 +30,5 @@ Programs are in the following order
 8. Pointers
 
 9. Array
+
+10. Slices
