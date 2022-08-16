@@ -28,3 +28,5 @@ Programs are in the following order
 **Memory Management**
 
 8. Pointers
+
+9. Array
