@@ -34,3 +34,5 @@ Programs are in the following order
 10. Slices
 
 11. Maps
+
+12. Structs
