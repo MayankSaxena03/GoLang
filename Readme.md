@@ -44,3 +44,5 @@ Programs are in the following order
 14. Switch
 
 15. Loops
+
+16. Functions
