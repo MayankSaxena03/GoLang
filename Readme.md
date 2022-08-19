@@ -46,3 +46,5 @@ Programs are in the following order
 15. Loops
 
 16. Functions
+
+17. Methods
