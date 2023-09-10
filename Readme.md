@@ -69,12 +69,12 @@ Programs are in the following order
 
 **API**
 
-BuildAPI
+24. BuildAPI
 
 **Goroutine, mutex and channels**
 
-Goroutines
+25. Goroutines
 
-Race-Condition
+26. Race-Condition
 
-Channels
+27. Channels
